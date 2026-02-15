@@ -5,3 +5,5 @@ produce ros2 bag output into data folder, output will be produced in output fold
 Program written using ChatGPT 4.1 integrated in Visual Studio Code. Code has not been reviewed extensively by me. Do not run unknown code on your system without understanding what it does.
 
 Requires ffmpeg + pips in requirements.txt
+
+ffmpeg is called as an external process
